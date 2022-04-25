@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello world! :wave:
+
+:seedling: I'm a college student at FIAP and aspiring dev
+
+:two_hearts: My pronouns are: she/her
+
+:house_with_garden: I'm based in São Paulo, Brasil
+
+:mailbox: Reach me at [LinkedIn!](https://www.linkedin.com/in/vjessica/)
 
 <!--
 **jessicasv/jessicasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
