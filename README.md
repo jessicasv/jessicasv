@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hello there 👋 I'm a QA intern and aspiring dev. <br>Currently learning more about testing, back-end development and cloud computing ☁️ </samp></h4>
+<h4 align="center"><samp> Hello there 👋 <br>Currently learning more about testing, cloud computing and data engineering ☁️ </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif">
